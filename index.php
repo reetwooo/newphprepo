@@ -1,4 +1,4 @@
 <?php
-echo "Version -2 released Deploying PHP web application on an Openshift cluster";
+echo "Using FCGO creden released Deploying PHP web application on an Openshift cluster";
 ?>
 ~     
